@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28701.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fabrikam.Console", "Fabrikam.Console\Fabrikam.Console.csproj", "{8AB153F7-CBF9-4230-A78F-68FDF5CA92DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fabrikam.Logging", "Fabrikam.Logging\Fabrikam.Logging.csproj", "{6FC84866-A14F-406E-BA8F-84EC3925971A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB153F7-CBF9-4230-A78F-68FDF5CA92DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB153F7-CBF9-4230-A78F-68FDF5CA92DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB153F7-CBF9-4230-A78F-68FDF5CA92DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB153F7-CBF9-4230-A78F-68FDF5CA92DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC84866-A14F-406E-BA8F-84EC3925971A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC84866-A14F-406E-BA8F-84EC3925971A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC84866-A14F-406E-BA8F-84EC3925971A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC84866-A14F-406E-BA8F-84EC3925971A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3380078A-19C2-4417-A587-49DF191EA450}
+	EndGlobalSection
+EndGlobal
